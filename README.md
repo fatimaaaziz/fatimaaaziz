@@ -1,4 +1,4 @@
-# 🌸 Hello, I'm [Your Name]!  
+# 🌸 Hello, I'm Fatima aaziz!  
 <div align="center">  
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sacramento&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Coding+With+Creativity+💻;Lover+of+Pastel+Colors+🎀;Always+Learning+%26+Growing)](https://git.io/typing-svg)  
