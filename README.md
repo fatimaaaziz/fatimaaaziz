@@ -13,7 +13,7 @@
 
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-90E0EF?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-48CAE4?style=for-the-badge&logo=css3&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-48CAE4?style=for-the-badge&logo=css3&logoColor=white)  
 ### 🔧 Tools & Platforms  
 ![Docker](https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-89CFF0?style=for-the-badge&logo=git&logoColor=white)  
