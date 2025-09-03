@@ -1,4 +1,4 @@
-# 💎 Hello, I'm [Your Name]!  
+# 💎 Hello   
 
 <div align="center">  
  
@@ -9,7 +9,7 @@
 ---
 
 ## 💖 About Me  
-javascript
+```javascript
 const pastelDev = {
     location: "Morocco 🇲🇦",
     role: "Full Stack Developer 👩‍💻",
