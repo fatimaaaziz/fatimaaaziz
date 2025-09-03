@@ -5,10 +5,10 @@
 
 </div>  
 
----
+
 
 ## 💖 About Me  
-```javascript
+javascript
 const girlyDev = {
     location: "Morocco 🇲🇦",
     role: "Full Stack Developer 👩‍💻",
@@ -63,4 +63,4 @@ const girlyDev = {
 
 ✨ “Code with style, debug with coffee, and shine with confidence!” ✨
 
-</div> ```
+</div>
